@@ -98,6 +98,6 @@ See below for further instructions and expectations of this demo and reach out t
     Additional Notes:
 
     - Please Ensure that you have enabled [Real User Monitoring (RUM)](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/setup-and-configuration/web-applications/initial-configuration/configure-dynatrace-real-user-monitoring-to-capture-xhr-actions/) for you web app
-    - Make sure to expose your frontend microservices so they are publicly accessible. (Hint:Load balancer or Node Port)
+    - Make sure to expose your frontend microservices so they are publicly accessible. *(Hint: Load balancer or Node Port)*
     - [Take a look at YouTube for Sample Demos](https://www.youtube.com/results?search_query=dynatrace+demo)
     - Have fun!
