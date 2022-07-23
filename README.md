@@ -1,6 +1,6 @@
 # Dynatrace ONE TPS L2 Capstone
 
-Congratulations! It’s time to showcase your skills as a Product Specialist and show our team you’re ready to become an L2 PS. As next steps we will ask you to setup and demo an environment of your choosing to the West Coast Dynatrace ONE team. The goal of this demo is to highlight your technical aptitude by demonstrating the core concepts and feature functionality of the Dynatrace platform and your ability to present value of the Dynatrace platform to customers across multiple business units in a single presentation.
+Congratulations! It’s time to showcase your skills as a Product Specialist and show your team you’re ready to become an L2 PS. As next steps we will ask you to setup and demo an environment of your choosing to the Dynatrace ONE West Coast team. The goal of this demo is to highlight your technical aptitude by demonstrating the core concepts and feature functionality of the Dynatrace platform and your ability to present value of the Dynatrace platform to customers across multiple business units in a single presentation.
 
 See below for further instructions and expectations of this demo and reach out to your hiring manager with any questions.
 
