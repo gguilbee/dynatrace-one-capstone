@@ -2,7 +2,7 @@
 
 Congratulations! It’s time to showcase your skills as a Product Specialist and show your team you’re ready to become an L2 PS. As next steps we will ask you to setup and demo an environment of your choosing to the Dynatrace ONE West Coast team. The goal of this demo is to highlight your technical aptitude by demonstrating the core concepts and feature functionality of the Dynatrace platform and your ability to present value of the Dynatrace platform to customers across multiple business units in a single presentation.
 
-See below for further instructions and expectations of this demo and reach out to your hiring manager with any questions.
+See below for further instructions and expectations of this demo and reach out to your manager with any questions.
 
 1. Sign up for a free Dynatrace SaaS trial 
     - https://www.dynatrace.com/trial/
@@ -11,7 +11,7 @@ See below for further instructions and expectations of this demo and reach out t
     - [GCP](https://cloud.google.com/free/docs/gcp-free-tier/#free-trial) 
     - [Azure](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/)
     - [AWS](https://aws.amazon.com/free/)
-        - Leverage Dynatrace's AWS Account 
+        - Alternatively, you can leverage Dynatrace's AWS Account. Follow the steps below to gain access
             - [New AWS login for employees](https://dynatrace.sharepoint.com/sites/gotc/SitePages/AWS-Console-Login.aspx)
             - [AWS EKS authentication setup & flow](https://dev-wiki.dynatrace.org/pages/viewpage.action?spaceKey=DTONE&title=AWS+EKS+authentication+setup+and+flow)
        
@@ -40,7 +40,7 @@ See below for further instructions and expectations of this demo and reach out t
 
 1. External integrations and extensions
 
-    Below we have listed key Dynatrace integrations and extensions that you’ll need to setup and demo in your environment. These are intended to be challenging and highlight/showcase your level of experience and knowledge of the Dynatrace platform. Below is a list of integrations tiered by challenge level of time and technical ability to implement. Dynatrace documentation links are included. Please note, these are only examples. Feel free to review the Dynatrace How to Use Dynatrace and Product News pages and come up with your own integration ideas for you demo.
+    Below we have listed key Dynatrace integrations and extensions that you’ll need to setup and demo in your environment. These are intended to be challenging and highlight/showcase your level of experience and knowledge of the Dynatrace platform. Below is a list of integrations tiered by challenge level of time and technical ability to implement. Dynatrace documentation links are included. Please note, these are only examples. Feel free to review the Dynatrace [How to Use Dynatrace](https://www.dynatrace.com/support/help/how-to-use-dynatrace/networks/) and [Product News](https://www.dynatrace.com/news/blog/) pages and come up with your own integration ideas for you demo.
 
     Requirements
         
@@ -71,7 +71,7 @@ See below for further instructions and expectations of this demo and reach out t
 
 1. Presentation Overview
 
-    Again, your presentation should highlight your technical aptitude and expertise by demonstrating the core concepts and feature functionality of the tool. However, the primary focus of your presentation will be to demonstrate the value of the data provided by Dynatrace to multiple business units, teams and stakeholders for any given organization. For the purposes of this demo Dynatrace’s West Coast PS team will be role playing as stake holders of a prospect in the roles of:  
+    Again, your presentation should highlight your technical aptitude and expertise by demonstrating the core concepts and feature functionality of the tool. However, the primary focus of your presentation will be to demonstrate the value of the data provided by Dynatrace to multiple business units, teams and stakeholders for any given organization. For the purposes of this demo Dynatrace’s West Coast PS team will be role playing as stake holders of an existing customer with growth opportunities in the roles of:  
     
     - Technology Operations
     - C Level Management
