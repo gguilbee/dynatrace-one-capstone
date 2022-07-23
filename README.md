@@ -19,10 +19,10 @@ See below for further instructions and expectations of this demo and reach out t
     - [Kubernetes](https://www.dynatrace.com/support/help/shortlink/full-stack-dto-k8)
     - [OpenShift](https://www.dynatrace.com/support/help/shortlink/full-stack-dto-k8)
 
-1. Deploy a Web Application
-    You can leverage Dynatrace’s EasyTravel application for this demo
-    - [Easy Travel - Standalone](https://community.dynatrace.com/t5/Getting-started/easyTravel-Documentation-and-Download/td-p/181271)
-    - [Easy Travel - Docker](https://github.com/Dynatrace/easyTravel-Docker)
+1. Deploy a Web Application. You can leverage Dynatrace’s EasyTravel application for this demo
+    - <strike>[Easy Travel - Standalone](https://community.dynatrace.com/t5/Getting-started/easyTravel-Documentation-and-Download/td-p/181271)</strike>
+    - <strike>[Easy Travel - Docker](https://github.com/Dynatrace/easyTravel-Docker)</strike>
+    - [Easy Travel - Kubernetes](https://github.com/gguilbee/easytravel-kubernetes)
 
 1. Alternatively, you can choose to use any other web frontend you have already worked with or built for this demo
 
