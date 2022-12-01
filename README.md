@@ -65,7 +65,7 @@ See below for further instructions and expectations of this demo and reach out t
     - [Leverage the Dynatrace Terraform Provider](https://registry.terraform.io/providers/dynatrace-oss/dynatrace/latest)
     - [Extend OneAgent to instrument a non-native language through the OneAgent SDK](https://www.dynatrace.com/support/help/extend-dynatrace/oneagent-sdk/)
     - [Service Now CMDB](https://www.dynatrace.com/support/help/setup-and-configuration/integrations/third-party-integrations/problem-notification-systems/servicenow-integration/)
-    - [Davis Assistant](https://www.dynatrace.com/support/help/how-to-use-dynatrace/davis-assistant/)
+    - <strike>[Davis Assistant](https://www.dynatrace.com/support/help/how-to-use-dynatrace/davis-assistant/)</strike> [Deprecated]
     - [Integrate business dashboards to really highlight value](https://dynatrace.github.io/BizOpsConfigurator/)
  
 
