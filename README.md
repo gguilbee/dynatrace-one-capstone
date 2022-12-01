@@ -53,7 +53,7 @@ See below for further instructions and expectations of this demo and reach out t
     - [Define Session Properties](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/setup-and-configuration/web-applications/additional-configuration/define-user-action-and-session-properties/)
     - [Define Availability & Performance SLO’s](https://www.dynatrace.com/support/help/shortlink/objectives-hub)
  
-    Additional Integration Requirements - Pick 4
+    Additional Integration Requirements - Pick 3
 
     - [Add any metric data point(s) to your environment using Metric Ingestion](https://www.dynatrace.com/support/help/how-to-use-dynatrace/metrics/metric-ingestion/)
     - [Instrument a Python application with OneAgent](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
